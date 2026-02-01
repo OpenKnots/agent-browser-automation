@@ -1,6 +1,8 @@
-# Kernel + Vercel
+# Agent Browser Automation
 
-Next.js + Kernel for running AI-powered browser automations with natural language on Vercel.
+> Next.js + Kernel for running AI-powered browser automations *with natural language*.
+
+![./assets/home.png](./assets/home.png)
 
 ## Overview
 
